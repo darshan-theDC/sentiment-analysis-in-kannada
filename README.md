@@ -72,7 +72,7 @@ Whether you’re a tech enthusiast or just curious about how AI can understand a
 
 ### Step 2: Install Required Python Libraries  
 Run the following commands in your terminal or command prompt:  
-  pip install pandas transformers torch datasets scikit-learn PyQt5
+  ``` pip install pandas transformers torch datasets scikit-learn PyQt5 ```
 
 ### Step 3: Set Up Assets  
 1. **Download Positive Sentiment Sound**  
@@ -88,13 +88,13 @@ Run the following commands in your terminal or command prompt:
      Save the file as `negative.svg` in the `assets/icons` folder.
 
 ### Step 4: Clone the repository:
-  git clone https://github.com/darshan-theDC/sentiment-analysis-in-kannada.git
+  ``` git clone https://github.com/darshan-theDC/sentiment-analysis-in-kannada.git ```
 
 ### Step 5: Navigate to the project directory:
-  cd sentiment-analysis-in-kannada
+  ``` cd sentiment-analysis-in-kannada ```
 
 ### Step 6: Run the application
-  python test_sentiment.py
+  ``` python test_sentiment.py ```
 
 
 ## 🛠️ Technologies Used
